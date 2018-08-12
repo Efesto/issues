@@ -1,7 +1,7 @@
 defmodule Issues.CLI do
   @default_count 4
 
-  def run(argv) do
+  def main(argv) do
     parse_args(argv)
     |> process
     |> display
