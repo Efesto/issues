@@ -1,6 +1,7 @@
 # Issues
 
-**TODO: Add description**
+Github projects issues reporter implemented with Elixir as a CLI tool.
+Implementation from Programming Elixir 1.6 book by Dave Thomas - Chapter 13
 
 ## Installation
 
