@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Efesto/issues.svg?style=svg)](https://circleci.com/gh/Efesto/issues)
+
 # Issues
 
 Github projects issues reporter implemented with Elixir as a CLI tool.
